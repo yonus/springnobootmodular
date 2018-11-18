@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="SpringNoBootModuleServices" />
+        <module name="SpringNoBootModuleWebApi" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="SpringNoBootBOM" target="1.11" />
+      <module name="SpringNoBootModuleServices" target="1.11" />
+      <module name="SpringNoBootModuleWebApi" target="1.11" />
+      <module name="SpringNoBootParent" target="1.11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/SpringNoBootBOM/SpringNoBootBOM.iml" filepath="$PROJECT_DIR$/SpringNoBootBOM/SpringNoBootBOM.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringNoBootModuleServices/SpringNoBootModuleServices.iml" filepath="$PROJECT_DIR$/SpringNoBootModuleServices/SpringNoBootModuleServices.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringNoBootModuleWebApi/SpringNoBootModuleWebApi.iml" filepath="$PROJECT_DIR$/SpringNoBootModuleWebApi/SpringNoBootModuleWebApi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/SpringNoBootModuler.iml" filepath="$PROJECT_DIR$/.idea/SpringNoBootModuler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringNoBootParent/SpringNoBootParent.iml" filepath="$PROJECT_DIR$/SpringNoBootParent/SpringNoBootParent.iml" />
+    </modules>
+  </component>
+</project>

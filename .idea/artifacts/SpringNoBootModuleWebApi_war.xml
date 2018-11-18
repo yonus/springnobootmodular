@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="SpringNoBootModuleWebApi:war">
+    <output-path>$PROJECT_DIR$/SpringNoBootModuleWebApi/target</output-path>
+    <root id="archive" name="Webapi.war">
+      <element id="artifact" artifact-name="SpringNoBootModuleWebApi:war exploded" />
+    </root>
+  </artifact>
+</component>
